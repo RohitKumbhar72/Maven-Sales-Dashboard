@@ -1,0 +1,55 @@
+---
+
+### **1. Overview of Performance (Top Metrics)**
+**Story Tile Title:** "Strong Sales Growth with Room for Profit Improvement"
+
+- **Key Insight:** Maven Supplies achieved year-to-date (YTD) sales of $1,747K, with a YTD profit of 13.5%. However, the average discount of 15.35% and a YTD quantity sold of 28K units suggest opportunities to optimize pricing strategies.
+- **Narrative:** "From January 2017 to December 2018, Maven Supplies recorded impressive sales of $1.75 million, reflecting strong market demand. However, with a profit margin of 13.5% and an average discount of 15.35%, there’s potential to improve profitability by revisiting discount strategies while maintaining sales volume."
+- **Visual Suggestion:** Highlight the top metrics (YTD Sales, YTD Profit, YTD Qty, YTD Avg Discount) in bold, with a small trend line showing sales growth over the period.
+
+---
+
+### **2. Regional Sales Performance (Sales vs Goal by Region)**
+**Story Tile Title:** "West and Central Regions Lead, but East and South Lag Behind Goals"
+
+- **Key Insight:** The West region leads with sales around 350K, followed by Central at 300K, both exceeding their goals (represented by the vertical line around 250K). The East and South regions, however, fall short, with sales around 200K and 150K, respectively.
+- **Narrative:** "The West and Central regions are outperforming their sales goals, contributing significantly to overall revenue. In contrast, the East and South regions are underperforming, missing their targets by a notable margin. This suggests a need for targeted strategies to boost sales in these regions, such as localized marketing or inventory adjustments."
+- **Visual Suggestion:** Use the bar chart showing sales vs. goals by region, with a focus on the gap between actual sales and goals for East and South.
+
+---
+
+### **3. Geographic Profit Distribution (Sales & Profit by City)**
+**Story Tile Title:** "Profit Hotspots: California Cities Dominate"
+
+- **Key Insight:** The bubble map shows that cities in California (e.g., Los Angeles, San Francisco) have larger bubbles, indicating higher sales and profits compared to other regions. Eastern cities like New York have smaller bubbles, suggesting lower performance.
+- **Narrative:** "California emerges as a profit powerhouse for Maven Supplies, with cities like Los Angeles and San Francisco driving both high sales and profitability. In contrast, eastern cities like New York show smaller contributions, highlighting a geographic disparity in performance. Expanding successful strategies from the West to the East could help balance growth."
+- **Visual Suggestion:** Use the bubble map, zooming in on California to emphasize the concentration of high-performing cities, with a comparison to a few underperforming eastern cities.
+
+---
+
+### **4. Category and Sub-Category Performance (Sales & Profit by Category & Sub-Category)**
+**Story Tile Title:** "Technology Drives Sales, but Furniture Lags in Profitability"
+
+- **Key Insight:** The Technology category leads with $260,491.41 in sales (Phones sub-category), followed by Furniture at $286,275.12 (Chairs sub-category). However, Furniture’s profitability is lower compared to Technology and Office Supplies, where sub-categories like Binders and Copiers show strong returns.
+- **Narrative:** "Technology, particularly Phones, is the top revenue generator at $260K, showcasing strong consumer demand. Furniture, while also a high seller at $286K (driven by Chairs), struggles with profitability. Office Supplies, with sub-categories like Binders and Copiers, offer a balanced mix of sales and profit, making them a stable contributor. Focusing on improving Furniture margins could unlock additional profit potential."
+- **Visual Suggestion:** Use the treemap to highlight Technology and Furniture, with a side-by-side comparison of sales and profit for their top sub-categories (Phones and Chairs).
+
+---
+
+### **5. Sales and Profit Trends Over Time (Sales & Profit by Month)**
+**Story Tile Title:** "Seasonal Peaks and Profit Volatility"
+
+- **Key Insight:** Sales (orange bars) peak in November and December 2018, reaching around 200K, likely due to holiday shopping. Profit (green line) shows volatility, with notable dips in mid-2017 and mid-2018, despite steady sales growth.
+- **Narrative:** "Sales exhibit clear seasonality, with significant spikes in November and December 2018, aligning with the holiday shopping season. However, profit trends are less stable, with dips in mid-2017 and mid-2018, possibly due to high discounts or operational costs. Aligning pricing and cost management with peak sales periods could help smooth out profit fluctuations."
+- **Visual Suggestion:** Use the line and bar chart, zooming in on the November-December 2018 peak for sales, and highlighting the profit dips in mid-2017 and mid-2018 for contrast.
+
+---
+
+### **6. Strategic Recommendations**
+**Story Tile Title:** "Action Plan for Balanced Growth"
+
+- **Key Insight:** Combining insights from all visuals, Maven Supplies can focus on improving profitability in Furniture, boosting sales in the East and South, and stabilizing profit during peak sales periods.
+- **Narrative:** "To drive balanced growth, Maven Supplies should: 1) Optimize pricing in the Furniture category to improve margins, 2) Implement targeted marketing campaigns in the East and South regions to meet sales goals, and 3) Adjust discount strategies during peak sales months to ensure profit stability. Leveraging the success of Technology and California markets can serve as a blueprint for broader improvements."
+- **Visual Suggestion:** Create a summary slide with a checklist of recommendations, supported by small snippets of the treemap (for Furniture), bar chart (for East/South), and line chart (for profit volatility).
+
+---
