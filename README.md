@@ -1,5 +1,5 @@
 # Executive Retail Sales Analytics Dashboard
-<img src="Images/bike.jpg" width="2000" height="500"/>&nbsp;
+<img src="images/Maven Supplies Logo.png" width="2000" height="500"/>&nbsp;
 ## 📊 Overview
 This Executive Retail Sales Analytics Dashboard provides a comprehensive view of sales and profit performance across different regions, categories, and time periods. It offers actionable insights into sales goals, city-wise performance, and category-level profitability.
 
@@ -58,4 +58,4 @@ Leverage top-performing products: Expand inventory and marketing efforts for Cha
 Seasonal sales strategies: Capitalize on the end-of-year sales peaks by offering targeted promotions.
 
 ## Dashboard :
-<img src="Images/Adventure Bicycle Sales Dashboard.png" width="2500" height="600"/>&nbsp;
+<img src="images/Dashboard 1.png" width="2500" height="600"/>&nbsp;
