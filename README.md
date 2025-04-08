@@ -2,60 +2,118 @@
 <img src="images/Maven Supplies Logo.png" width="2000" height="500"/>&nbsp;
 ## 📊 Overview
 This Executive Retail Sales Analytics Dashboard provides a comprehensive view of sales and profit performance across different regions, categories, and time periods. It offers actionable insights into sales goals, city-wise performance, and category-level profitability.
+This repository contains a Tableau dashboard that provides insights into executive retail sales analytics. Tableau is a powerful tool for data visualization and storytelling, helping businesses uncover trends and make data-driven decisions. This project demonstrates how Tableau can be used to tell a compelling story through sales data.
+This repository contains a Tableau dashboard that provides insights into executive retail sales analytics. The dashboard includes key performance metrics such as Year-to-Date (YTD) sales, profit, quantity, and average discount. It also visualizes sales and profit distribution across various dimensions, including region, category, city, and time.
 
-## 🔍 Key Metrics
-$1,747K – Year-to-Date (YTD) Sales
 
-13.5% – YTD Profit Margin
 
-28K – YTD Quantity Sold
+## Dataset
 
-15.35% – YTD Average Discount
+The analysis in this project is based on the Maven Supplies Raw dataset. The dataset includes sales, orders, and returns data, which were used to generate insights.
 
-## 🌍 Visualizations & Insights
-### Sales vs Goal by Region
+## Tool used :
+<img src="Images/Tableau logo.png" width="300" height="150"/>&nbsp;
 
-The West region exceeded its sales goal, indicating strong performance.
 
-East and South regions underperformed, falling short of their respective goals.
+## Key Insights
 
-The Central region had minimal sales compared to the other regions.
+### Storytelling with Tableau
 
-### Sales & Profit by City
+This dashboard highlights key business insights through data storytelling. The following stories emerge from the analysis:
 
-Cities in California reported the highest sales and profit, represented by large, dark blue bubbles.
+1.New York City is the best performer across all key metrics.
 
-Other regions, including parts of Texas and Arizona, show smaller, lighter bubbles, indicating lower sales and profit performance.
+2.September 2018 marked the highest sales and profit in the dataset.
 
-### Sales & Profit by Category & Sub-Category
+3.Central & West regions performed the best in terms of sales and profitability.
 
-Chairs ($286,275.12) and Phones ($260,491.41) are the top-selling sub-categories.
+These insights help businesses identify high-performing areas and make strategic decisions based on real data.
 
-Tables show negative profitability, suggesting high discounting or cost issues.
+### 1. Sales & Profit Overview
 
-Technology and Furniture categories drive significant revenue, while Office Supplies contribute moderately.
+•	Total YTD Sales: $1.747K (An increase of 8% compared to the previous year)
 
-### Sales & Profit by Month
+• YTD Profit Margin: 13.50% (Slightly below the industry benchmark of 15%)
 
-Sales fluctuate throughout the year, peaking in December 2017 and December 2018.
+•	Total Quantity Sold: 28K (Consistent with last year's performance)
 
-The green line shows profit trends, which align with higher sales months.
+•	YTD Average Discount: 15.35% (Higher than the recommended 12%, potentially impacting profit margins)
 
-Steady growth in sales is observed over time, with occasional spikes during the holiday season.
+### 2. Top Insights from the Analysis
 
-## 🚀 Tools Used
-Tableau: Data visualization and dashboard creation
+•	New York City is the best performer across all key metrics.
 
-Mapbox: Geospatial mapping of city-level performance
+•	September 2018 marked the highest sales and profit in the dataset.
 
-## 📈 Recommendations
-Optimize underperforming regions: Improve marketing and sales strategies in the East and South regions to meet sales goals.
+•	Central & West regions performed the best in terms of sales and profitability.
 
-Investigate low-profit sub-categories: Tables are generating losses—consider revising pricing or reducing discounts.
+### 3. Sales vs Goal by Region
 
-Leverage top-performing products: Expand inventory and marketing efforts for Chairs and Phones, as they are key revenue drivers.
+•	The West region has the highest sales, surpassing the set goal.
 
-Seasonal sales strategies: Capitalize on the end-of-year sales peaks by offering targeted promotions.
+•	The East region follows with substantial sales but does not meet the goal.
+
+•	Central and South regions have lower sales compared to the West and East.
+
+### 4. Sales & Profit by Category & Sub-Category
+
+•	Tree Map Visualization Used to display the sales and profit distribution.
+
+•	Furniture: Chairs and Tables contribute significantly to sales, with Chairs leading.
+
+•	Office Supplies: Storage and Binders dominate this category.
+
+•	Technology: Phones generate the highest sales, followed by Copiers and Accessories.
+
+### 5. Sales & Profit by City
+
+•	Map with Bubble Visualization Used to represent performance across different cities.
+
+•	Larger blue circles indicate higher sales and profit, while orange circles indicate lower profit margins.
+
+### 6. Sales & Profit by Months
+
+•	Line Chart Visualization Used to depict monthly trends.
+
+•	There are visible sales spikes in December 2017 and December 2018, indicating possible seasonal trends.
+
+•	Profit trends fluctuate with sales but do not always correlate perfectly.
+
+## Data Processing
+
+•	A Left Join was performed on Orders and Orders Add-On tables with the Returns table.
+
+•	The data was filtered to include only the years 2017 and 2018.
+
+•	A Quick Filter was implemented to allow users to view data for a single year.
+
+•	Created a custom measure: SUM([Sales])/SUM([Fixed_State]) for enhanced analysis.
+
+## Usage
+
+•	This Tableau dashboard helps businesses analyze sales trends and profitability.
+
+•	The insights can guide strategic decisions such as regional investments, discount policies, and category prioritization.
 
 ## Dashboard :
 <img src="images/Dashboard 1.png" width="2500" height="600"/>&nbsp;
+
+## Story Telling
+
+### 1.New York City is the best performer across all key metrics.
+
+<img src="Images/Story 1.png" width="2500" height="600"/>&nbsp;
+
+
+### 2.September 2018 marked the highest sales and profit in the dataset.
+
+<img src="Images/Story 2.png" width="2500" height="600"/>&nbsp;
+
+
+3.Central & West regions performed the best in terms of sales and profitability.
+
+<img src="Images/Story 3.png" width="2500" height="600"/>&nbsp;
+
+
+
+
