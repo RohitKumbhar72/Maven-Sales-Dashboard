@@ -1,4 +1,8 @@
 # Executive Retail Sales Analytics Dashboard
+
+## Project Link
+
+[Executive Retail Sales Analytics Dashboard](https://public.tableau.com/app/profile/rohit.kumbhar4219/viz/Maven_Retail_Sales_Dashboard/Dashboard1?publish=yes)
 <img src="images/Maven Supplies Logo.png" width="2000" height="500"/>&nbsp;
 ## 📊 Overview
 This Executive Retail Sales Analytics Dashboard provides a comprehensive view of sales and profit performance across different regions, categories, and time periods. It offers actionable insights into sales goals, city-wise performance, and category-level profitability.
